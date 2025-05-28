@@ -88,3 +88,9 @@ a:active {
 .steps{
     padding: 0px 0px 20px 0px;
 }
+
+h3{
+    padding: 0px 0px 10px 0px;
+    color:#F7EE7F;
+    text-decoration: underline;
+}
