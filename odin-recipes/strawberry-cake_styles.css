@@ -73,6 +73,18 @@ a:active {
 }
 
 .image{
-    padding: 0px 0px 10px 0px;
+    padding: 0px 0px 20px 0px;
     text-align: center;
+}
+
+.description{
+    padding: 0px 0px 20px 0px;
+}
+
+.ingredients{
+    padding: 0px 0px 20px 0px;
+}
+
+.steps{
+    padding: 0px 0px 20px 0px;
 }
