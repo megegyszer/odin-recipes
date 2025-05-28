@@ -1,4 +1,5 @@
-*{
+/* Basic Structure */
+    *{
     box-sizing: border-box;
     margin: 0px auto;
 }
@@ -57,3 +58,51 @@ a:hover {
 a:active {
     text-decoration: underline;
   }
+
+
+/* Subpages */
+
+.home{
+    margin: 0px 10px 0px 10px;
+    padding: 10px 40px 0px 40px;
+    font-size: 14px;
+    color: black;
+    background-color:rgba(140, 223, 214, 0.6);
+    text-align: right;
+}
+
+.recipe{
+    margin: 0px 10px 10px 10px;
+    padding: 10px 40px 20px 40px;
+    font-size: 14px;
+    color: black;
+    background-color:rgba(140, 223, 214, 0.6);
+}
+
+.image_cover{
+    width: 600px;
+    height: auto;
+}
+
+.image{
+    padding: 0px 0px 20px 0px;
+    text-align: center;
+}
+
+.description{
+    padding: 0px 0px 20px 0px;
+}
+
+.ingredients{
+    padding: 0px 0px 20px 0px;
+}
+
+.steps{
+    padding: 0px 0px 20px 0px;
+}
+
+h3{
+    padding: 0px 0px 10px 0px;
+    color:#F7EE7F;
+    text-decoration: underline;
+}
