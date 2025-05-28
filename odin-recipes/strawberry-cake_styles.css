@@ -19,3 +19,13 @@ body{
     color: black;
     background-color:#FF9595;
 }
+
+.subtitle {
+    margin: 10px 10px 0px 10px;
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    color: black;
+    background-color:rgba(109, 192, 213, 0.6);
+}
